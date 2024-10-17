@@ -1,0 +1,10 @@
+Swap Method
+Write a generic method swap that takes an array of any type and swaps the first and last elements of the array. Demonstrate its functionality with a sample array.
+
+Generic Stack Implementation
+Create a generic stack class GenericStack<T> that supports the following operations:
+push(T item): Adds an item to the top of the stack.
+T pop(): Removes and returns the item at the top of the stack.
+T peek(): Returns the item at the top of the stack without removing it.
+boolean isEmpty(): Checks if the stack is empty.
+int size(): Returns the number of items in the stack.
