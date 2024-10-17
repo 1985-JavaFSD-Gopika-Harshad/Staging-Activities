@@ -1,0 +1,11 @@
+· Numbers and underscores
+· Array – initialization and iterations
+· Array manipulation
+· Var for local variables
+· Unary operators
+· Mathematics
+· Postfix and prefix
+· Comparison
+· Conditional or Logical – and, or
+· Compound assignment
+· Instance of

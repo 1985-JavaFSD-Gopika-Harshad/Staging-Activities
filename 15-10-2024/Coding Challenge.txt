@@ -1,0 +1,6 @@
+Scenario 3: Thread Safety
+You are building a multi-threaded application where multiple threads will access and modify a shared collection of data. Which Java collection class would you use to ensure thread safety?
+Answer:ConcurrentHashMap is the collection class designed for thread safety in concurrent environments. It allows concurrent access to the map from multiple threads without the need for external synchronization. Operations like put, get, remove, etc., are designed to be thread-safe, making it suitable for scenarios where multiple threads modify the collection concurrently.
+Scenario 4: Sorting and Performance
+You need to store a collection of employee objects, and frequently sort them based on their salaries in descending order. Which Java collection would you choose, and how would you implement the sorting?
+Answer:You can use an ArrayList to store the employee objects. To efficiently sort them based on salaries in descending order, you would typically use the Collections.sort method along with a custom comparator. Here's a sample implementation:

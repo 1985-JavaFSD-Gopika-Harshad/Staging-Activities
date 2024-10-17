@@ -1,0 +1,7 @@
+Scenario 5: Handling Key-Value Pairs
+
+You are developing an application where you need to associate each student with their respective grades. Which Java collection would be appropriate for storing this key-value pair relationship?
+Answer:HashMap would be suitable for storing the mapping of students to their grades. It allows you to store key-value pairs, where each student's ID (key) maps to their grades (value). This provides efficient retrieval and modification of grades based on the student ID.
+ 
+Implement a generic class Pair<T, U> that can hold two objects of types T and U. Provide methods to get and set the values of the pair.
+ 
