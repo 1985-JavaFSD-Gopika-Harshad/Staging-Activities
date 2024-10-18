@@ -1,0 +1,5 @@
+Blog Management System
+:
+Users can create, edit, and delete blog posts.
+Commenting system with CRUD operations.
+Search functionality for posts and comments.
