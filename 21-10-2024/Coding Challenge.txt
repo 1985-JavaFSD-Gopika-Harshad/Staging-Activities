@@ -1,0 +1,5 @@
+Type-safe Container
+Develop a type-safe container class Container<T> that can hold a single object of type T. Include methods to set and retrieve the object.
+
+Bounded Type Parameters
+Write a method printList(List<? extends Number> list) that takes a list of elements bounded to the Number type and prints each element.
