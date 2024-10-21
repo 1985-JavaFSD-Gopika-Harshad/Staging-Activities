@@ -1,2 +1,5 @@
-Project Review for Blog management system
+Inventory Management System:
 
+CRUD operations for managing products, categories, and suppliers.
+Track inventory levels, update quantities, and manage orders.
+Generate reports (e.g., low stock alerts).
