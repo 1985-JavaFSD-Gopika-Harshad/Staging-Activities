@@ -4,4 +4,4 @@ CRUD operations for managing products, categories, and suppliers.
 Track inventory levels, update quantities, and manage orders.
 Generate reports (e.g., low stock alerts).
 
-Do the GET and POST operations.
+Do the PUT and Delete operations ..
