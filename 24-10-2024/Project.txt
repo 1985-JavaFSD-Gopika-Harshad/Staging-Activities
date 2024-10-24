@@ -1,0 +1,7 @@
+Online Store:
+CRUD for products, categories, and orders.
+Shopping cart functionality.
+User authentication and order management.
+
+
+--- Reviewed the code

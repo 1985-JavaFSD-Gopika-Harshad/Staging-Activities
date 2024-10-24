@@ -1,0 +1,5 @@
+Generic Method to Find Maximum
+Implement a generic method findMax(T[] array) that takes an array of elements implementing the Comparable interface and returns the maximum element.
+
+Multi-Type Box
+Create a class Box<T> that can hold an object of type T. Provide a method to display the type of the object it holds and its value.
