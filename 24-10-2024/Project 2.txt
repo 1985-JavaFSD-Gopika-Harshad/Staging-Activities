@@ -1,0 +1,4 @@
+Recipe Book:
+Users can create, update, and delete recipes.
+Categorize recipes by cuisine, meal type, etc.
+Rate and review recipes, add photos.
